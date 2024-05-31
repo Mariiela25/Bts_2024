@@ -1,0 +1,167 @@
+ 
+ body{ 
+  background-color: none;
+}
+
+
+a{
+  text-decoration: none;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(96, 50, 233);
+    width: 100%;
+    a{
+      text-decoration: none;
+    }
+
+     ul{
+      font-family: Georgia, Times, 'Times New Roman', serif;
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+  
+     }  
+
+  
+     ul li{
+      
+        font-size: 16px;
+        margin: 10px;
+        color: rgb(211, 145, 255);
+
+     }
+}
+
+header img{
+  width: 100px;
+ }
+img{
+    width: 100px ;
+}
+
+h1{
+  font-size: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(60, 60, 232);
+ }
+
+ .posicion{
+    font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(80, 60, 198);
+ }
+
+p{
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(7, 7, 63);
+} 
+.contenedor{
+    margin: 5px 0 5px 0 ;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background-color: rgb(216, 177, 252);
+}
+
+
+
+.contenedor2{
+  margin: 5px 0 5px 0;
+display: flex;
+flex-direction: row;
+width: 100%;
+background-color: rgb(216, 177, 252);
+}
+
+.caja{
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    align-items: center;
+
+}
+
+.caja img{
+    border-radius: 25%;
+}
+
+#nosotros{
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+
+}
+
+#nosotros iframe{
+  
+  padding: 10px;
+  margin: 0 10px 0 10px;
+
+}
+.spotify{
+
+  padding: 10px;
+  margin: 5px 0 0 0;
+  background-color: rgb(216, 177, 252);
+ p{
+  font-size: 20px;
+
+ } 
+}
+
+footer{
+
+  padding: 10px;
+  margin: 5px 0 0 0;
+  background-color: rgb(152, 60, 222);
+ p{
+  font-size: 40px;
+  text-align: center;
+ } 
+
+
+}
+
+.carousel-container{
+  background-color: rgb(51, 31, 162);
+  
+}
+.carousel-container img {
+
+  max-width: 1000px; /* Establece el ancho máximo del carrusel */
+  max-height: 500PX;
+  margin: 0 auto; /* Centra horizontalmente el carrusel */
+  
+}
+
+.nosotross{
+  margin: 0 auto; 
+  background-color: blueviolet;
+}
+
+.boton{
+  padding: 20px;
+  text-align: center;
+  margin: 0 auto; 
+  background-color: rgb(216, 177, 252);
+}
+
+.h2texto{
+  padding: 10px;
+  margin: 5px 0 0 0;
+  background-color: rgb(216, 177, 252);   
+ p{
+  font-size: 20px;
+
+ }
+}

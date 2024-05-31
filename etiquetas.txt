@@ -1,0 +1,21 @@
+Los DIV 
+
+Los DIV son elementos muy importantes 
+en HTML, porque nos permiten agrupar 
+los contenidos. Funcionan como si fueran cajas,
+donde luego con CSS se le puede asignar propiedades 
+(Colores de fondos, tamaños, alineaciones, márgenes, etc.) 
+
+
+etiqueta ul sirve para listados desordenados, ol viñetas ordenadas
+El elemento li del ingles item list o elemento de lista declara cada uno de los elementos de una lista. 
+Sus etiquetas son: <li> y </li> (la de cierre es opcional). Crea una caja: en bloque.
+
+
+ Video HTML avanzado : Header y Nav
+Algunos conceptos a tener en cuenta:
+
+HEADER: se utilizan en HTML 5 para identificar el encabezado de la página Web.
+
+NAV: Es una etiqueta que utilizamos para crear un menú de navegación. 
+Generalmente dentro del NAV ponemos una lista (ul)
